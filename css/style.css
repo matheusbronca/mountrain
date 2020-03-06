@@ -111,6 +111,7 @@ body{
 }
 
 .search-container p {
+    margin: 0 auto;
     color: white;
     font-weight: lighter;
     font-size: calc(18px + (32 - 18) * ((100vw - 300px) / (1600 - 300)));
@@ -251,7 +252,7 @@ footer {
     }
 
     .search-container input::placeholder {
-        font-size: .9em;
+        font-size: 1em;
     }
 
     .search-container .search-bar::before {
@@ -261,7 +262,7 @@ footer {
     }
 
     .search-container p {
-        font-size: 0.9em;
+        font-size: .9em;
     }
 
     html {
