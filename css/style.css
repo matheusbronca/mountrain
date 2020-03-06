@@ -121,7 +121,7 @@ body{
     margin: 25px auto;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     background: white;
     border-radius: 25px;
     width: 100%;
