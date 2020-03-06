@@ -104,10 +104,10 @@ body{
 }
 
 .search-container {
+    align-self: center;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    margin: 0px auto;
     padding: 0px 5vw;
 }
 
