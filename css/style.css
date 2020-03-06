@@ -104,30 +104,31 @@ body{
 }
 
 .search-container {
-    align-self: center;
-    display: flex;
+    justify-content: center;
+    display: block;
     flex-direction: column;
     flex-wrap: wrap;
-    padding: 0px 5vw;
+    margin: 0 auto;
 }
 
 .search-container p {
     margin: 0 auto;
     color: white;
     font-weight: lighter;
+    max-width: 100%;
     font-size: calc(18px + (32 - 18) * ((100vw - 300px) / (1600 - 300)));
 }
 
 .search-container .search-bar {
-    margin: 25px auto;
+    margin: 25px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
     background: white;
     border-radius: 25px;
-    width: 100%;
     min-height: fit-content;
     padding: 3px 5.5px;
+    position: relative;
 }
 
 .search-container .search-bar input {
@@ -207,6 +208,7 @@ input::placeholder{
 }
 
 .bottom-container {
+    max-width: 100%;
    margin: 1vw 0;
    padding: 10vh 0;
 }
