@@ -94,7 +94,7 @@ body{
 
 .intro {
     text-align: center;
-    margin: calc(50px + 5vw) 25px 0 25px;
+    margin: calc(50px + 5vw) 25px 25px 25px;
     font-size: calc(50px + (100 - 50) * ((100vw - 300px) / (1600 - 300)));
     font-weight: 600;
     font-style: italic;
