@@ -1,4 +1,4 @@
-# Landing page Doritos
+# Mountrain Home Page
 
  Homepage of a fictional mountain tourism company.
  UI Designed by me in Adobe XD
