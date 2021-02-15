@@ -10,8 +10,8 @@
 
 ## Technologies
 
--[HTML](https://html.spec.whatwg.org/)
--[CSS](https://www.w3.org/Style/CSS/Overview.en.html/)
+[HTML](https://html.spec.whatwg.org/)<br>
+[CSS](https://www.w3.org/Style/CSS/Overview.en.html/)
 
 # Contributors
 
