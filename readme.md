@@ -6,7 +6,7 @@
 ![Capa do Projeto](/img/cover2.jpg)
 
 ## Demo
- [Click here to see a demo](https://github.com/matheusbronca/mountrain/)
+ [Click here to see a demo](https://matheusbronca.github.io/mountrain/)
 
 ## Technologies
 
