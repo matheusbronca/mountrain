@@ -3,7 +3,7 @@
  Homepage of a fictional mountain tourism company.
  UI Designed by me in Adobe XD
 
-![Capa do Projeto](/img/cover.jpg)
+![Capa do Projeto](/img/cover2.jpg)
 
 ## Demo
  [Click here to see a demo](https://github.com/matheusbronca/mountrain/)
